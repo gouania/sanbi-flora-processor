@@ -1,4 +1,4 @@
-# SANBI Flora Processor 🇿🇦🌿
+# SANBI Flora Processor 
 
 This repository contains a Python pipeline designed to make the **SANBI e-Flora of South Africa** interactive using Large Language Models (LLMs). 
 
